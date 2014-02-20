@@ -6,7 +6,7 @@ require 'formula'
 class Chaiscript4 < Formula
   homepage 'http://chaiscript.com/'
   url 'https://github.com/ChaiScript/ChaiScript/archive/Release-4.2.0.zip'
-  sha1 '08a8d3fdb5bd75561b20a2c61e52e96705a2d67b'
+  sha1 '412976a19c9ce4d073318a9e5ef17dc09e22c4a6'
   head 'https://github.com/ChaiScript/ChaiScript.git'
 
   env :std

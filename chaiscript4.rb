@@ -12,6 +12,7 @@ class Chaiscript4 < Formula
   env :std
 
   depends_on 'cmake' => :build
+  depends_on 'boost'
 
   def install
     ENV.remove_macosxsdk
